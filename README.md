@@ -16,8 +16,8 @@ El siguiente software debe estar instalado en la máquina donde se va a correr e
 * open_infosel_hub.py (el script en este directorio)
 * Debe modificar el script para que contenga el usuario y password que utiliza normalmente para ingresar a hub.
 * Instalar las dependencias para el script.
-.* una opcion simple es es ejecutar el comando `pip install selenium`
-.* la opcion estandar es ejecutar el comando `pip install -r requirements.txt` utilizando el `requirements.txt` que se encuentra aquí 
+  * una opcion simple es es ejecutar el comando `pip install selenium`
+  * la opcion estandar es ejecutar el comando `pip install -r requirements.txt` utilizando el `requirements.txt` que se encuentra aquí 
 
 ## Operación
 1. Ejecute el script desde una ventana de terminal.
